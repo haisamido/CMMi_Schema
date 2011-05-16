@@ -296,7 +296,11 @@ AND
  cmmi_pacamls.process_area_id= cmmi_process_areas.id
 AND
  cmmi_pacamls.category_id = cmmi_categories.id
-ORDER BY cmmi_types.type,cmmi_maturity_levels.maturity_level_number
+AND
+ cmmi_pacamls.maturity_level_id = cmmi_maturity_levels.maturity_level_number
+ORDER BY 
+ cmmi_types.type,
+ cmmi_process_areas.process_area
 ;
 
 
