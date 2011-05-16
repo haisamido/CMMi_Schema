@@ -1,0 +1,40 @@
+#id,version_id(FK),process_area,abbreviation
+1,1,Acquisition Requirements Development,ARD
+2,1,Acquisition Technical Management,ATM
+3,1,Acquisition Validation,AVAL
+4,1,Acquisition Verification,AVER
+5,1,Agreement Management,AM
+6,1,Capacity and Availability Management,CAM
+7,1,Causal Analysis and Resolution,CAR
+8,1,Configuration Management,CM
+9,1,Decision Analysis and Resolution,DAR
+10,1,Incident Resolution and Prevention,IRP
+11,1,Integrated Project Management,IPM
+12,1,Integrated Work Management,IWM
+13,1,Measurement and Analysis,MA
+14,1,Organizational Performance Management,OPM
+15,1,Organizational Process Definition,OPD
+16,1,Organizational Process Focus,OPF
+17,1,Organizational Process Performance,OPP
+18,1,Organizational Training,OT
+19,1,Process and Product Quality Assurance,PPQA
+20,1,Product Integration,PI
+21,1,Project Monitoring and Control,PMC
+22,1,Project Planning,PP
+23,1,Quantitative Project Management,QPM
+24,1,Quantitative Work Management,QWM
+25,1,Requirements Development,RD
+26,1,Requirements Management,REQM
+27,1,Risk Management,RSKM
+28,1,Service Continuity,SCON
+29,1,Service Delivery,SD
+30,1,Service System Development,SSD
+31,1,Service System Transition,SST
+32,1,Solicitation and Supplier Agreement Development,SSAD
+33,1,Strategic Service Management,STSM
+34,1,Supplier Agreement Management,SAM
+35,1,Technical Solution,TS
+36,1,Validation,VAL
+37,1,Verification,VER
+38,1,Work Monitoring and Control,WMC
+39,1,Work Planning,WP

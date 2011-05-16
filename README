@@ -1,0 +1,11 @@
+Author: Haisam K. Ido<haisam_at_ido.org>
+
+Goal:
+  * Create CMMi (http://www.sei.cmu.edu/cmmi/) schemas
+  
+Objective:
+  * 3NF SQL schema in mysql
+  
+Tools used:
+  * Used mysql's workbench (http://wb.mysql.com/) and then forward engineered to
+    create sql schema
